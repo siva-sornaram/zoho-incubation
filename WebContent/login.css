@@ -1,0 +1,35 @@
+<style type="text/css">
+
+body {
+    text-align: center;
+}
+
+
+#form1 {
+	max-width: 450px;
+	background: #FAFAFA;
+	padding: 30px;
+	margin: 50px auto;
+	box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+	border-radius: 10px;
+	border: 6px solid #305A72;
+}
+
+#button {
+	color: #1cb300;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #ffffff;
+	padding: 10px;
+	border: 4px solid #6fb6ce;
+	border-radius : 10px;
+	display: inline-block;
+	transition: all 0.4s ease 0s;
+}
+
+#button:hover {
+	color: #ffffff;
+	background: #19be39;
+	border-color: #00ff37;
+	transition: all 0.4s ease 0s;
+}
